@@ -2,9 +2,24 @@
 
 ![devops guide](https://github.com/Tikam02/DevOps-Guide/blob/master/img/devops-guide.png)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Tikam02/DevOps_Cheatsheet?style=for-the-badge)   ![Devops](https://img.shields.io/badge/Development-Operations-blue?style=for-the-badge) ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/devops?style=for-the-badge) [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=for-the-badge)](#contributors)
+![GitHub last commit](https://img.shields.io/github/last-commit/Tikam02/DevOps_Cheatsheet?style=for-the-badge)   ![Devops](https://img.shields.io/badge/Development-Operations-blue?style=for-the-badge) ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/devops?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/Tikam02/DevOps-Guide?style=for-the-badge)
 
-
+<p>
+		<a href="https://triplebyte.com/a/UEmYALe/d">
+		<b>Looking for a job?</b> 
+			<br>
+			No resume needed. Just prove you can code. Take Triplebyte’s quiz 
+      and go straight to final onsite interviews!
+			<br>
+			<div>
+				<img src="https://github.com/Tikam02/DevOps-Guide/blob/master/img/logo/Triplebyte_Logo_Default.png" width="500" hieght="400"  alt="Tripblebyte" align="middle">
+			</div>
+		</a>
+		<!-- <sub><i>Clicking this helps fund the DevOps Guide project</i></sub> -->
+	</p>
+	
+	
+	
 *******************
 
 
@@ -34,25 +49,30 @@
     <td align="center"><a href="./Interview"><img src="img/logo/interview.png" width="80x;" height="75px;" alt="Interview"/><br /><b>Interview </b></a><br /><sub><a href="./Interview/Dev-ops-Interview.md">Interview Questions</a></sub></td>
     <td align="center"><a href="./CI-CD/GitlabCi"><img src="img/logo/gitlab.png" width="80x;" height="75px;" alt="Gitlab"/><br /><b>Gitlab</b></a><br /><sub><a href="./CI-CD/GitlabCi/gitlab-concepts.md">Gitlab Concepts</a></sub><br><sub><a href="./CI-CD/GitlabCi/gitlab-commands.md">Gitlab Commands</a></sub></td>
     <td align="center"><a href="./IaC/Puppet"><img src="img/logo/puppet.png" width="100x;" height="75px;" alt="Puppet"/><br /><b>Puppet</b></a><br /><sub><a href="./IaC/Puppet/puppet-concepts.md">Puppet Concepts</a></sub><br><sub><a href="./IaC/Puppet/puppet-commands.md">Puppet Commands</a></sub></td>
-    <td align="center"><a href="./IaC/Chef"><img src="img/logo/chef.jpg" width="100x;" height="75px;" alt="Chef"/><br /><b>Chef</b></a><br /><sub><a href="./IaC/Chef/chef-concepts.md">Chef Concepts</a></sub><br><sub><a href="./IaC/Chef/chef-commands.md">Chef Commands</a></sub></td>
+    <td align="center"><a href="./IaC/Chef"><img src="img/logo/chef.jpg" width="80x;" height="75px;" alt="Chef"/><br /><b>Chef</b></a><br /><sub><a href="./IaC/Chef/chef-concepts.md">Chef Concepts</a></sub><br><sub><a href="./IaC/Chef/chef-commands.md">Chef Commands</a></sub></td>
    
   </tr>
   
  </table>
 </center>
 
- 
+ <center>
+<table>
+
+   <tr>
+    <td align="center"><a href="./CI-CD/TravisCi"><img src="img/logo/travisci.png" width="70x;" height="75px;" alt="Gitlab"/><br /><b>Travis</b></a><br /><sub><a href="./CI-CD/TravisCi/travis-concepts.md">Travis Concepts</a></sub><br><sub><a href="./CI-CD/TravisCi/travis-commands.md">Travis Commands</a></sub></td>
+   
+  </tr>
+  
+ </table>
+</center>
 
 
-******************
 
 
 
-![Foundation](https://github.com/Tikam02/DevOps_Cheatsheet/blob/master/img/flow.png)
-* Foundation
 
-![Flow](https://github.com/Tikam02/DevOps_Cheatsheet/blob/master/img/foundation.png)
-* Devops Flow
+
 
 ********************
 
@@ -84,10 +104,6 @@
 
 **************************
 
-## License
-
-This project is licensed under the MIT License - Copyright (c) 2019 Tikam Alma
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -97,11 +113,26 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://www.ghostwheel.co.uk"><img src="https://avatars0.githubusercontent.com/u/652579?v=4" width="100px;" alt="Neil Duncan"/><br /><sub><b>Neil Duncan</b></sub></a><br /><a href="https://github.com/Tikam02/DevOps-Guide/commits?author=neilduncan" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://adrianmoisey.gitlab.io/"><img src="https://avatars3.githubusercontent.com/u/736329?v=4" width="100px;" alt="Adrian Moisey"/><br /><sub><b>Adrian Moisey</b></sub></a><br /><a href="https://github.com/Tikam02/DevOps-Guide/commits?author=adrianmoisey" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/cuzza0"><img src="https://avatars0.githubusercontent.com/u/8264053?v=4" width="100px;" alt="cuzza0"/><br /><sub><b>cuzza0</b></sub></a><br /><a href="https://github.com/Tikam02/DevOps-Guide/commits?author=cuzza0" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://adrianmoisey.gitlab.com/"><img src="https://avatars3.githubusercontent.com/u/736329?v=4" width="100px;" alt="Adrian Moisey"/><br /><sub><b>Adrian Moisey</b></sub></a><br /><a href="https://github.com/Tikam02/DevOps-Guide/commits?author=adrianmoisey" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Win32Sector"><img src="https://avatars3.githubusercontent.com/u/7781383?v=4" width="100px;" alt="Pavel Kozlov"/><br /><sub><b>Pavel Kozlov</b></sub></a><br /><a href="#question-Win32Sector" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/milap-neupane"><img src="https://avatars0.githubusercontent.com/u/2145263?v=4" width="100px;" alt="Milap Neupane"/><br /><sub><b>Milap Neupane</b></sub></a><br /><a href="https://github.com/Tikam02/DevOps-Guide/commits?author=milap-neupane" title="Code">💻</a> <a href="#tutorial-milap-neupane" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://johnoctubre.me/"><img src="https://avatars0.githubusercontent.com/u/1725315?v=4" width="100px;" alt="john"/><br /><sub><b>john</b></sub></a><br /><a href="https://github.com/Tikam02/DevOps-Guide/commits?author=johnoct" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/jobin-george-364bbb127/"><img src="https://avatars0.githubusercontent.com/u/26024383?v=4" width="100px;" alt="Jobin George"/><br /><sub><b>Jobin George</b></sub></a><br /><a href="https://github.com/Tikam02/DevOps-Guide/commits?author=jobintweets" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/tsyr2ko"><img src="https://avatars3.githubusercontent.com/u/344274?v=4" width="100px;" alt="tsyr2ko"/><br /><sub><b>tsyr2ko</b></sub></a><br /><a href="https://github.com/Tikam02/DevOps-Guide/commits?author=tsyr2ko" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://twitter.com/VictorNS69"><img src="https://avatars2.githubusercontent.com/u/10101065?v=4" width="100px;" alt="Víctor Nieves Sánchez"/><br /><sub><b>Víctor Nieves Sánchez</b></sub></a><br /><a href="https://github.com/Tikam02/DevOps-Guide/commits?author=VictorNS69" title="Documentation">📖</a></td>
   </tr>
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+********************************************
+<a href="https://www.buymeacoffee.com/95jwDkC" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+*********************************************
+## License
+
+This project is licensed under the MIT License - Copyright (c) 2019 Tikam Alma
